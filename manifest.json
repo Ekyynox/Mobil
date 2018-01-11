@@ -1,0 +1,15 @@
+{
+  " short_name " : " Valkenheim " ,
+  " nom " : " L'app de la force " ,
+  " icônes " : [
+    {
+      " src " : " icon.png " ,
+      " tailles " : " 512x512 " ,
+      " type " : " image / png "
+    }
+  ],
+  " start_url " : " / " ,
+  " display " : " autonome " ,
+  " background_color " : " # 000000 " ,
+  " theme_color " : " # 0f4a73 "
+}
